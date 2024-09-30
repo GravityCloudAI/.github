@@ -1,4 +1,4 @@
-![Gravity Cloud](https://res.cloudinary.com/dor5uewzz/image/upload/v1726165358/public/og-image-latest_xqizw8.png)
+![Gravity Cloud](https://res.cloudinary.com/dor5uewzz/image/upload/v1727088947/og-image_dqlfm9.png)
 
 # Unified Internal Developer Platform
 Gravity Cloud is a unified Internal Developer Portal that delivers self-serve DevOps to engineering teams of all sizes.
