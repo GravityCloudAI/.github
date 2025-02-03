@@ -1,7 +1,7 @@
-![Gravity Cloud](https://res.cloudinary.com/dor5uewzz/image/upload/f_auto/v1733326205/og-image_qjsqr6.png)
+![Gravity Cloud](https://res.cloudinary.com/dor5uewzz/image/upload/v1738584408/og-image_ikqkhk.png)
 
 # Gravity Cloud - Internal Developer Portal
-Gravity Cloud is redefining platform engineering for modern enterprises. Our solution streamlines infrastructure management, automates workflows, and empowers development teams to innovate faster, with less complexity. 
+Gravity Cloud is redefining internal developer portal for modern enterprises. Our solution streamlines infrastructure management, automates workflows, and empowers development teams to innovate faster, with less complexity. 
 
 By simplifying platform operations, we help organizations reduce costs, accelerate time to market, and boost developer productivity—all while ensuring scalability and flexibility. 
 
